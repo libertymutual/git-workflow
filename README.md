@@ -63,4 +63,4 @@ The basic workflow looks like:
 
 # More stuff
 
-* Learn about [how Git stores branche](https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is)
+* Learn about [how Git stores branches](https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is)
