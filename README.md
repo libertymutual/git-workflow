@@ -31,8 +31,6 @@ To rebase, use the command `git rebase master` instead of `git merge master`, an
 
 For more information, see Atlassian's article on [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing).
 
-Assignment: rebase a feature branch
-
 # How to Squash
 
 Suppose you are in a feature branch that has 4 commits ahead of master. To squash the commits, you'd run the following command:
@@ -48,8 +46,6 @@ After your editor opens, follow the instructions presented to squash commits and
 For more information, see Git's documentation on [Rewriting History](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History).
 
 As mentioned earlier, never rebase or squash commits that exist outside of the feature branch you are working on. Rewriting commits that are already master will lead to misery for your team.
-
-Assignment: squash commits in a feature branch
 
 # The ideal Git workflow
 
