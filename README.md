@@ -1,3 +1,5 @@
+_Git opens up the VIM editor by default. [Change it](https://stackoverflow.com/questions/2596805/how-do-i-make-git-use-the-editor-of-my-choice-for-commits) to use the editor of your choice._
+
 # Typical Git workflow
 
 1. Pull master
