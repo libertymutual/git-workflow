@@ -1,4 +1,4 @@
-# Your current Git workflow
+# Typical Git workflow
 
 1. Pull master
 2. `git checkout -b my-feature-branch`
@@ -47,7 +47,7 @@ For more information, see Git's documentation on [Rewriting History](https://git
 
 As mentioned earlier, never rebase or squash commits that exist outside of the feature branch you are working on. Rewriting commits that are already master will lead to misery for your team.
 
-# The ideal Git workflow
+# "Clean commit" Git workflow
 
 The basic workflow looks like:
 
