@@ -58,3 +58,7 @@ The basic workflow looks like:
 3. Rebase frequently to incorporate upstream changes on master
 4. When you're done with your feature, interactive rebase and squash your commits
 5. Force push your cleaned up feature branch to have it reviewed and merged
+
+# More stuff
+
+* Learn about [how Git stores branches](https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is)
